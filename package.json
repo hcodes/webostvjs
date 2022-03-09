@@ -1,0 +1,28 @@
+{
+  "name": "webostv",
+  "version": "1.2.4",
+  "description": "Source code of the webOSTV.js library",
+  "main": "webOSTV.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hcodes/webostv.git"
+  },
+  "keywords": [
+    "webOSTV.js",
+    "webOSTV",
+    "webostv",
+    "webos",
+    "webOS",
+    "webosdev",
+    "webOSDev"
+  ],
+  "author": {
+    "name": "Denis Seleznev",
+    "email": "hcodes@yandex.ru"
+  },
+  "license": "ASL",
+  "bugs": {
+    "url": "https://github.com/hcodes/webostv/issues"
+  },
+  "homepage": "https://github.com/hcodes/webostv#readme"
+}
