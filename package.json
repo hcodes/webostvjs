@@ -1,11 +1,11 @@
 {
   "name": "webostvjs",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "description": "Source code of the webOSTV.js library",
   "main": "webOSTV.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hcodes/webostv.git"
+    "url": "git+https://github.com/hcodes/webostvjs.git"
   },
   "keywords": [
     "webOSTV.js",
@@ -22,7 +22,7 @@
   },
   "license": "ASL",
   "bugs": {
-    "url": "https://github.com/hcodes/webostv/issues"
+    "url": "https://github.com/hcodes/webostvjs/issues"
   },
-  "homepage": "https://github.com/hcodes/webostv#readme"
+  "homepage": "https://github.com/hcodes/webostvjs#readme"
 }
