@@ -1,5 +1,7 @@
-v1.2.5
+# Changelog
+
+## v1.2.5
 Update README.md.
 
-v1.2.4
+## v1.2.4
 First public release.
