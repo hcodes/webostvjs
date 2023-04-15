@@ -5,7 +5,7 @@ webOSTV.js
 [![bundlephobia](https://badgen.net/bundlephobia/minzip/webostvjs)](https://bundlephobia.com/result?p=webostvjs)
 [![install size](https://packagephobia.com/badge?p=webostvjs)](https://packagephobia.com/result?p=webostvjs)
 
-This the package contain a source code of the [webOSTV.js library](https://webostv.developer.lge.com/api/webostvjs/intro-webostvjs/).
+This the package contain a source code of the [webOSTV.js library](https://webostv.developer.lge.com/develop/references/webostvjs-introduction).
 
 # Library version
 A source code for library version **1.2.4**.
