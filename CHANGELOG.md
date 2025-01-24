@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.2.11
+webOSTV.js library updated to v1.2.11.
+
 ## v1.2.5
 Update README.md.
 
