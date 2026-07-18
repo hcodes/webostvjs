@@ -14,18 +14,10 @@ A source code for library version [1.2.13](https://webostv.developer.lge.com/ass
 ```bash
 npm i --save-dev webostvjs
 ```
-or
-```bash
-yarn add webostvjs
-```
 
 ### [Typings for TypeScript](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/webostvjs)
 ```bash
 npm i --save-dev @types/webostvjs
-```
-or
-```bash
-yarn add @types/webostvjs
 ```
 
 ## Usage
