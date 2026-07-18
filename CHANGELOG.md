@@ -1,5 +1,10 @@
 # Changelog
 
+[webOSTV.js release notes](https://webostv.developer.lge.com/develop/references/webostvjs-release-notes)
+
+## v1.2.13
+webOSTV.js library updated to v1.2.13.
+
 ## v1.2.12
 webOSTV.js library updated to v1.2.12.
 

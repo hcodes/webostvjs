@@ -8,7 +8,7 @@ webOSTV.js
 This the package contain a source code of the [webOSTV.js library](https://webostv.developer.lge.com/develop/references/webostvjs-introduction).
 
 # [Library version](https://webostv.developer.lge.com/develop/references/webostvjs-release-notes)
-A source code for library version [1.2.12](https://webostv.developer.lge.com/assets/library/webOSTVjs-1.2.12.zip).
+A source code for library version [1.2.13](https://webostv.developer.lge.com/assets/library/webOSTVjs-1.2.13.zip).
 
 ## Install
 ```bash
